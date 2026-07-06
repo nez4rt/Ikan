@@ -51,6 +51,8 @@ abbr -a pari "pacman -Ss"
 abbr -a pasang "sudo pacman -S"
 abbr -a yari "paru -Ss"
 abbr -a yasa "paru -S"
+abbr -a upd "sudo pacman -Syu"
+abbr -a del "sudo pacman -Rns"
 ```
 
 | Abbr | Command Asli | Fungsi |
