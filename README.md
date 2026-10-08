@@ -13,6 +13,9 @@ abbr -a ff "fastfetch"
 abbr -a cls "clear"
 abbr -a nari "nala search"
 abbr -a nasa "sudo nala install"
+abbr -a upd "sudo apt update"
+abbr -a upg "sudo apt upgrade"
+abbr -a del "sudo apt purge"
 ```
 
 | Abbr | Command Asli | Fungsi |
